@@ -1,0 +1,23 @@
+# Virtual environment
+covid-env/
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large generated data
+data/*.npy
+data/*.pkl
+data/processed_data.csv
+
+# Model outputs
+models/
+plots/
+results/
+
+# OS files
+.DS_Store
+Thumbs.db
